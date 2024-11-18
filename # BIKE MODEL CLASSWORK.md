@@ -8,3 +8,9 @@
 
 #### Also i created a third pivot table using the bike model and prices in all state with chart attaached 
 
+#### lastly i added slicers to all my charts
+
+{!}} https://github.com/lauraleloho/bike_classwork-.git
+
+![text]()
+
